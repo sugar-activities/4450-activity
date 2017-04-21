@@ -1,0 +1,57 @@
+9
+ENHANCEMENTS
+* Added new help files written by Ignacio Rodriguez
+* Sync with current Turtle Blocks
+* New translations
+
+8
+
+ENHANCEMENTS
+* Cairo conversion
+* New translations
+
+7
+
+ENHANCEMENT
+* new translations
+
+6
+
+ENHANCEMENT
+* Refactoring of toolbars to meet new reference design
+
+BUG FIX
+* Fixed race-condition that sometimes prevented turtle art from
+  launching (#3044)
+
+5
+
+ENHANCEMENT
+* Added offset to challenge to make it easier to align the turtle to the graphic
+* Added hints to the Help toolbar (with help from Ignacio Rodriguez)
+* Command-line version for running from GNOME shell
+
+4
+
+ENHANCEMENTS
+* Restore challenge after running clean block
+* Improved clarity of activity-icon graphics
+* Show dimensions on challenge graphics
+
+3
+
+ENHANCEMENT
+* Import custom challenge from Journal
+
+BUG FIXES
+* Fixed problem with erase button
+
+2
+
+BUG FIXES
+* Fixed problem with old-style toolbars
+
+1
+
+ New activity that combines Turtle Blocks and Barry Newell's Turtle
+ Confusion challenges

@@ -1,0 +1,10 @@
+[Activity]
+name = Turtle Confusion
+activity_version = 9
+license = MIT
+bundle_id = org.laptop.TurtleConfusionActivity
+exec = sugar-activity TurtleConfusionActivity.TurtleConfusionActivity
+icon = activity-turtleart
+show_launcher = yes
+update_url = http://wiki.laptop.org/go/Activities/G1G1
+mime_types = application/x-turtle-art
